@@ -1,0 +1,107 @@
+.navbar{
+    background-image: url(https://static.tacdn.com/img2/branding/homepage/home-tab3-hero-1367x520-prog.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    justify-content: center;
+    color: white;
+}
+
+.d4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 30px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 10px 0px rgb(229, 180, 222);
+}
+.d4{
+    background-color: white;
+}
+
+.sr-icon {
+    font-size: 20px;
+    margin-right: 5px;  
+    margin-left: 10px;
+    color: black;
+}
+.moto h1{
+    color: black;
+}
+.moto{
+    text-decoration: white;
+}
+
+.d4 input {
+    border: none;
+    width: 642px;
+    font-size: 20px;
+    margin-left: 2px;
+}
+.d1 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    /* background-color: rgb(229, 180, 222); */
+    padding: 5px;
+    color: black;
+    font-size: 18px;
+    border-radius: 20px;
+    gap: 2%;
+}
+.dot {
+    fill: #16e91d;
+}
+.like i{
+    position: relative;
+    bottom: 300px;
+    margin-left: 250px;
+}
+
+.like i{
+    background-color: white;
+    border-radius: 30px;
+    padding: 8px;
+    font-size: 20px;
+}
+
+.sec2{
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+    gap: 30px;
+}
+.sec2 div {
+    border: 1px solid rgb(205, 202, 202);
+    /* padding: 10px; */
+    height: 170px;
+    width: 400px;
+}
+.sec2 div img{
+    height: 40px;
+    margin-top: -20px;
+}
+
+.see a{
+    color: black;
+    text-decoration: none;
+}
+.see h3{
+    text-align: right;
+    color: black;
+    text-decoration: none;
+}
+.perent{
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+    text-align: center;
+}
+
+

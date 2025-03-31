@@ -1,0 +1,294 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+.paragrap {
+    justify-content: center;
+    font-size: 40px;
+    text-align: center;
+}
+
+.nav-icon img {
+    background-color: grey;
+    border-radius: 50px;
+}
+
+.nav1 {
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+    gap: 10px;
+}
+.nav1 a {
+    text-decoration: none;
+}
+.cen {
+    position: relative;
+}
+
+.search {
+    position: absolute;
+    left: 14.2%;
+    top: 25%;
+    z-index: 10;
+}
+
+.d4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 56px;
+    border: 1px solid white;
+    border-radius: 35px;
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 0px 10px 0px rgb(229, 180, 222);
+
+}
+
+
+
+.sr-icon {
+    font-size: 20px;
+    margin-right: 5px;
+    margin-left: 10px;
+}
+
+.d4 input {
+    outline: none;
+    border: none;
+    width: 642px;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.sr button {
+    cursor: pointer;
+    width: auto;
+    font-size: 16px;
+    padding: 8px 20px;
+    background-color: #2cdaac;
+    border-radius: 45px;
+    margin-right: 7px;
+    border: none;
+}
+
+.sr button:hover {
+    background-color: #c31ac6;
+}
+
+.pera {
+    background-image: url("https://static.tacdn.com/img2/trips/home-gai-entry-gateway-dv.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    box-sizing: border-box;
+
+    text-align: justify;
+    color: white;
+    height: 65vh;
+    width: 100%;
+}
+
+.pera h1 {
+    font-size: 60px;
+}
+
+.pera h2 {
+    font-size: 25px;
+}
+
+.d1 {
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+    background-color: rgb(229, 180, 222);
+    padding: 5px;
+    color: black;
+    font-size: 18px;
+    border-radius: 20px;
+}
+
+.sf {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.sf-img {
+    width: 100%;
+    /* height: 200px; */
+}
+
+.perasf {
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    gap: 50px;
+    width: 100%;
+}
+
+.a1 {
+    height: 65vh;
+    width: 95%;
+    margin-left: 3%;
+}
+
+.p {
+    margin: 0;
+}
+
+.fa-location-dot {
+    font-size: 15px;
+}
+
+body {
+    width: 70%;
+    margin-left: 15%;
+}
+
+.a2 {
+    padding: 10%;
+}
+
+.b1 {
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+
+.b7 {
+    height: 5px;
+    width: 5px;
+    border-radius: 50%;
+    color: rgb(22, 174, 22);
+}
+
+.b9 {
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+
+.b8 {
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+
+.bsf {
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+
+.moj1 {
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+
+.moj1 a {
+    text-decoration: none;
+    color: black;
+    justify-content: center;
+    font-size: 17px;
+}
+
+.dot {
+    fill: #00aa6c;
+}
+.rd{
+    display: flex;
+    justify-content: center;
+    gap: 3%;
+}
+.like i{
+    position: relative;
+    bottom: 300px;
+    margin-left: 250px;
+}
+
+.like i{
+    background-color: white;
+    border-radius: 30px;
+    padding: 8px;
+    font-size: 20px;
+}
+.done i{
+    position: relative;
+    bottom: 300px;
+    margin-left: 357px;
+}
+
+.done i{
+    background-color: white;
+    border-radius: 30px;
+    padding: 8px;
+    font-size: 20px;
+}
+.travel{
+    background-image: url('https://static.tacdn.com/img2/brand/feed/tc_cards_2024_c04.png');
+    background-position: right 180px center;
+    background-repeat: no-repeat;
+    background-size: 700px 640px;
+    height: 560px;
+    width: 100%;
+    background-color: #FFF7E1;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.travel-con{
+    padding-left: 220px;
+    padding-top: 80px;
+    width: 410px;
+}
+
+.travel-con h1{
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+.travel-con p{
+    font-size:24px;                                       font-weight: 400;
+    line-height: 29px;
+    padding-top: 12px;
+}
+
+.travel-con a{
+    text-decoration: none;
+    padding: 9px 20px;
+    background-color: black;
+    border: 1px solid #262626;
+    border-radius: 30px;
+    color: white;
+    font-weight: 600;
+    position: relative;
+    top: 30px;
+}
+
+.travel-con a:hover{
+    background-color: #333333;
+}
+.nav1 a{
+    color: black;
+    text-transform: none;
+}

@@ -1,0 +1,184 @@
+.asus{
+    justify-content: center;
+    
+}
+
+.navbar h1{
+    font-size: 60px;
+
+}
+.asus{
+    justify-content: center;
+    
+}
+
+.navbar h1{
+    font-size: 60px;
+
+}
+
+.d1{
+    display:flex;
+    justify-content: center;
+    gap: 5%;
+    text-align: center;
+    font-size: 15px;
+}
+.d1 i{
+    border-radius: 40px;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid black;
+}
+.perent{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 1%;
+}
+
+.moto{
+    justify-self: center;
+    text-align: center;
+    background-color: rgb(252, 234, 251) ;
+    height: 700px;
+    width: 500px;
+    padding-left: 96px;
+    border-radius: 10px;
+}
+.poco{
+    justify-self: center;
+    text-align: center;
+    background-color:rgb(222, 263, 249);
+    height: 700px;
+    width: 500px;
+    padding-left: 96px;
+    border-radius: 10px;
+
+}
+
+.moto button{
+    border-radius: 50px;
+    border: 1px solid rgb(222, 193, 249);
+    background-color: rgb(174, 178, 42);
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+.poco button{
+    border-radius: 50px;
+    border: 1px solid rgb(222, 193, 249);
+    background-color: rgb(30, 167, 85);
+    
+    font-size: 20px;
+    text-decoration: none;
+}
+.perent a{
+    color:black;
+    text-decoration: none;
+}
+
+.vivo{
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    gap: 2%;
+    /* height: 200px;
+    width: 200px; */
+}
+.like i{
+    position: relative;
+    bottom: 250px;
+    margin-left: 15px;
+}
+
+.like i{
+    background-color: white;
+    border-radius: 40px;
+    padding: 10px;
+    font-size: 20px;
+    color: black;
+}
+
+.d1{
+    display:flex;
+    justify-content: center;
+    gap: 5%;
+    text-align: center;
+    font-size: 15px;
+}
+.d1 i{
+    border-radius: 40px;
+    padding: 10px;
+    font-size: 20px;
+    border: 1px solid black;
+}
+.perent{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 1%;
+}
+
+.moto{
+    justify-self: center;
+    text-align: center;
+    background-color: rgb(252, 234, 251) ;
+    height: 700px;
+    width: 500px;
+    padding-left: 96px;
+    border-radius: 10px;
+}
+.poco{
+    justify-self: center;
+    text-align: center;
+    background-color:rgb(222, 263, 249);
+    height: 700px;
+    width: 500px;
+    padding-left: 96px;
+    border-radius: 10px;
+
+}
+
+.moto button{
+    border-radius: 50px;
+    border: 1px solid rgb(222, 193, 249);
+    background-color: rgb(174, 178, 42);
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+.poco button{
+    border-radius: 50px;
+    border: 1px solid rgb(222, 193, 249);
+    background-color: rgb(30, 167, 85);
+    
+    font-size: 20px;
+    text-decoration: none;
+}
+.perent a{
+    color:black;
+    text-decoration: none;
+}
+
+.vivo{
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+    gap: 2%;
+    /* height: 200px;
+    width: 200px; */
+}
+.like i{
+    position: relative;
+    bottom: 250px;
+    margin-left: 15px;
+}
+
+.like i{
+    background-color: white;
+    border-radius: 40px;
+    padding: 10px;
+    font-size: 20px;
+    color: black;
+}
